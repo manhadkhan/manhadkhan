@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @manhadkhan
+- 👋 Hi, I’m Manhad
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate with "The Odin Project"
+- 🧑‍💻 I've learned HTML and CSS
+- 🌱 I’m currently learning Javascript.
+- 💞️ I’m looking to kickstart my career in Front-end development
 - 📫 Reach me - manhad.majin@outlook.com
 
 <!---
