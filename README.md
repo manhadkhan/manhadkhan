@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Manhad
-- 👀 I’m interested in Web Development
-- 🧑‍💻 I've learned HTML and CSS
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to kickstart my career in Front-end development
+- 👀 I’m interested in Data Science
+- 🧑‍💻 I've knowledge of Python, SQL, Tableau, Machine Learning
+- 🌱 I’m currently learning Regression.
+- 💞️ I’m looking to kickstart my career in Data Science
 - 📫 Reach me - manhad.majin@outlook.com
 
 <!---
